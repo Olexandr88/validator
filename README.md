@@ -1,3 +1,6 @@
+
+[![License](https://img.shields.io/github/license/expresso/validator)](https://github.com/expresso/validator/blob/master/LICENSE)
+
 # Expresso Validator
 
 > JSON Schema validation middleware for [Expresso](https://github.com/expresso)
